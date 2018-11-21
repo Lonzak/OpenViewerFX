@@ -6,7 +6,7 @@
 
     <groupId>org.jpedal</groupId>
     <artifactId>OpenViewerFX</artifactId>
-    <version>6.6.17</version>
+    <version>6.6.18</version>
 
     <dependencies>
         <dependency>
